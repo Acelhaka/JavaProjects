@@ -1,0 +1,23 @@
+README FILE
+Amarilda Celhaka
+10/15/2018
+Project #3
+
+On this project I struggled a lot compared to the previous projects.
+At first I thought that the relation between classes was inheritance. 
+A wumpus Word "is" made of squares. I was halfway done with my project
+when I realized that A Wumpus World "has" square, composite relation. 
+I am glad I had started early so I could modify my code from inheritance 
+to composition.  
+After that I tried to reuse the same code/logic of my methods, and I created 
+a two dimensional array of object squares. I think the hardest part of this
+project was understanding what we need to do, and setting everything on the gameboard.
+I did not have a very clear idea of the organization of classes first and started
+coding,which did not end up being a very good idea. 
+After that, moving the human and doing validations for out of bound was easier.
+My project, may not have the exact content of classes as required from the
+assignment. Randmoly filling the squares with P/W is done through 
+Wumpus class. I was thinking of changing it, that is why I came to the office 
+to talk about the project, however I was not sure I was going to finish everything
+on time, including the 2 UML diagrams and README file. 
+Overall challenging but interesting project and fun game to play. 
